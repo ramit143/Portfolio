@@ -1,6 +1,6 @@
 import './Footer.css'
 import { FaFacebook, FaHome, FaLinkedin, FaMailBulk, FaPhone, FaTwitter } from 'react-icons/fa'
-
+// checking
 export function Footer () {
     return (
         <div className='footer'>
